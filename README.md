@@ -6,8 +6,7 @@
 - 😄 Pronouns: Me
 - ⚡ Fun fact: I'm going into thy gym for six years now (= with the right efford), but I don't look like that I lift.
 
-P.S. Don't let you get fooled by scrum coaches. They are all liars! I will write a blog post (huge one), about the many lies and misconceptions of scrum.
-
+P.S. Don't let you get fooled by scrum coaches. They are all liars!
 <!---
 kingShazor/kingShazor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
