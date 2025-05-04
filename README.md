@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on an 'low level' project.
 - 📫 How to reach me: notifications
 - 😄 Pronouns: Me
-- ⚡ Fun fact: I'm going into thy gym for six years now (= with the right efford), but I don't look like that I lift.
 
 P.S. Don't let you get fooled by scrum coaches. They are all liars!
 <!---
