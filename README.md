@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kingShazor
-- 👀 I’m interested in learning more about programming. I want to diversify because I have only used one programming language for decades. I'm only good at solving certain tasks in our framework too quickly.
-- 🌱 I’m currently configuring Neovim (I'm used to programming without anycompiler intelligence other than the one that marks every line as an error (eclipse) - watched 'C++ Coding with Neovim - Prateek Raman - CppCon 2022')
-- 💞️ I’m looking to collaborate on a rust project.
+- 👀 I’m interested in learning more about programming. My stack: fish, zig, c++, python, lua
+- 🌱 I’m currently coding my Neovim cfg
+- 💞️ I’m looking to collaborate on a zig project.
 - 📫 How to reach me: notifications
 - 😄 Pronouns: Me
 
